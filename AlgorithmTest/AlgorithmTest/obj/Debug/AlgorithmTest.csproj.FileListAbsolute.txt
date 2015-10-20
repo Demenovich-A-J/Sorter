@@ -16,3 +16,6 @@ C:\Users\Admin\Desktop\Sorter\Sorter\AlgorithmTest\AlgorithmTest\obj\Debug\Algor
 C:\Users\Admin\Desktop\Sorter\Sorter\AlgorithmTest\AlgorithmTest\bin\Debug\AlgorithmTest.exe
 C:\Users\Admin\Desktop\Sorter\Sorter\AlgorithmTest\AlgorithmTest\bin\Debug\AlgorithmTest.pdb
 C:\Users\Admin\Desktop\Sorter\Sorter\AlgorithmTest\AlgorithmTest\obj\Debug\AlgorithmTest.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Sorter\AlgorithmTest\AlgorithmTest\bin\Debug\AlgorithmTest.exe.config
+C:\Users\Admin\Documents\Sorter\AlgorithmTest\AlgorithmTest\obj\Debug\AlgorithmTest.exe
+C:\Users\Admin\Documents\Sorter\AlgorithmTest\AlgorithmTest\obj\Debug\AlgorithmTest.pdb
