@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AlgorithmTest
 {
-    class BubleAlgorithm<T> : IAlgorithm<T>
+    class BubleSort<T> : IAlgorithm<T>
     {
         public void Sort(IList<T> list, Comparer<T> comparer)
         {

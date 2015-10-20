@@ -15,9 +15,9 @@ namespace AlgorithmTest
                 'a', 'b', 'c', 'd', 'e', 'a', 'd', 's', 'e' 
             };
 
-            BubleAlgorithm<char> algo = new BubleAlgorithm<char>();
+            var algo3 = new QuickSort<char>();
 
-            algo.Sort(charList, Comparer<char>.Default);
+            algo3.Sort(charList, Comparer<char>.Default);
 
             foreach (var v in charList)
             {
